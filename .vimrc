@@ -22,5 +22,4 @@ set completeopt-=preview
 set colorcolumn=100
 highlight ColorColumn guibg=Gray14
 highlight ColorColumn ctermbg=DarkGray
-nnoremap <leader>jd :YcmCompleter GoTo<CR>
 nmap <F8> :TagbarToggle<CR>
